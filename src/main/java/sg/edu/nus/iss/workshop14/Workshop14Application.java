@@ -1,13 +1,13 @@
-package vttp2022ssf.worksop14;
+package sg.edu.nus.iss.workshop14;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Worksop14Application {
+public class Workshop14Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Worksop14Application.class, args);
+		SpringApplication.run(Workshop14Application.class, args);
 	}
 
 }
